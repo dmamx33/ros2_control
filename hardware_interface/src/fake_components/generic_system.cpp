@@ -21,6 +21,7 @@
 #include <limits>
 #include <string>
 #include <vector>
+#include <sys/types>
 
 #include "hardware_interface/types/hardware_interface_type_values.hpp"
 
